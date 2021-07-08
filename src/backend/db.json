@@ -1,49 +1,80 @@
 {
-    "users": [
-        {
-          "email": "regular@example.com",
-          "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
-          "id": 1
-        },
-        {
-          "email": "admin@example.com",
-          "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
-          "id": 2
-        }
-      ],
-    "products":[
-        {
-            "id": "552334",
-            "name" : "Shoes",
-            "stock" : 10,
-            "price" : 79.99,
-            "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
-            "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
-        },
-        {
-            "id": "332976",
-            "name" : "Shirt",
-            "stock" : 20,
-            "price" : 49.99,
-            "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
-            "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
-        },
-        {
-            "id": "434876",
-            "name" : "Jumper",
-            "stock" : 8,
-            "price" : 99.99,
-            "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
-            "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
-        },
-        {
-            "id": "552334",
-            "name" : "Socks",
-            "stock" : 50,
-            "price" : 4.99,
-            "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
-            "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
-        }
-    ]
-    
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "552334",
+      "name": "Shoes",
+      "stock": 10,
+      "price": 79.99,
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
+      "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
+    },
+    {
+      "id": "332976",
+      "name": "Shirt",
+      "stock": 20,
+      "price": 49.99,
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
+      "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
+    },
+    {
+      "id": "434876",
+      "name": "Jumper",
+      "stock": 8,
+      "price": 99.99,
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
+      "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
+    },
+    {
+      "id": "552334",
+      "name": "Socks",
+      "stock": 50,
+      "price": 4.99,
+      "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
+      "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
+    },
+    {
+      "id": "j2dqnzcpr1fkquxtreu",
+      "name": "Jeans",
+      "price": "54.95",
+      "stock": "12",
+      "shortDesc": "Blue Jeans",
+      "description": "Very blue, very denim "
+    },
+    {
+      "id": "g2s2i9dartkquxxqbn",
+      "name": "Hat",
+      "price": "12.99",
+      "stock": "18",
+      "shortDesc": "baseball cap",
+      "description": "wear it forwards, wear it backwards"
+    },
+    {
+      "id": "vf6foj7cnjfkquy0y5q",
+      "name": "Gloves",
+      "price": "5.99",
+      "stock": "4",
+      "shortDesc": "Woolen Gloves",
+      "description": "For your hands"
+    },
+    {
+      "id": "60q8r18h5kvkquy3gbw",
+      "name": "Shorts",
+      "price": "17.49",
+      "stock": "25",
+      "shortDesc": "Sport shorts",
+      "description": "For playing sports in or lounging around."
+    }
+  ]
 }
