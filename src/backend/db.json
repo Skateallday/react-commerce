@@ -15,7 +15,7 @@
     {
       "id": "552334",
       "name": "Shoes",
-      "stock": 10,
+      "stock": 9,
       "price": 79.99,
       "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
       "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
@@ -31,7 +31,7 @@
     {
       "id": "434876",
       "name": "Jumper",
-      "stock": 8,
+      "stock": 7,
       "price": 99.99,
       "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor maximus nisl a viverra. ",
       "description": "Maecenas tempor ante a malesuada maximus. Suspendisse ornare pellentesque facilisis. Quisque tempus luctus pretium. Integer mollis, tortor et pretium pharetra, velit elit tempus risus, sit amet facilisis risus enim in velit."
